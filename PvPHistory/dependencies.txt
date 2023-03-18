@@ -1,2 +1,2 @@
 https://svn.code.sf.net/p/zlib/code
-github Rinn/kol-pvphistory
+github Rinn/kol-creationcost
